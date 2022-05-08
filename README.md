@@ -6,7 +6,7 @@ This document is a curation of the many ways in which animal agriculture is harm
   - ### [Climate Change](#climate)
   - ### [Land Use & Pollution](#land-use)
   - ### [Water Use & Pollution](#water-use)
-- ## [Damage to Communities](#comm)
+- ## [Damage to Communities](#communities)
 - ## [Human Health](#health)
 - ## [Non-human Animals](#non-human)
 
@@ -24,7 +24,7 @@ This document is a curation of the many ways in which animal agriculture is harm
   - ### <a name="climate"></a>Climate Change
   - ### <a name="land-use"></a>Land Use & Pollution
   - ### <a name="water-use"></a>Water Use & Pollution
-- ## <a name="coom"></a>Damage to Communities
+- ## <a name="communities"></a>Damage to Communities
 
 - ## <a name="health"></a>Human Health
 - ## <a name="non-human"></a>Non-human Animals
