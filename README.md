@@ -6,24 +6,30 @@ This document is a curation of the many ways in which animal agriculture is harm
   - ### [Climate Change](#climate)
   - ### [Land Use & Pollution](#land-use)
   - ### [Water Use & Pollution](#water-use)
-- ## [Damage to Communities]()
-- ## [Human Health]()
-- ## [Non-human Animals]()
+- ## [Damage to Communities](#comm)
+- ## [Human Health](#health)
+- ## [Non-human Animals](#non-human)
 
-  - ### [Farmed Animals]()
-  - ### [Wildlife]()
-  - ### [Lab Animals]()
+  - ### [Farmed Animals](#farmed)
+  - ### [Wildlife](#wildlife)
+  <!-- - ### [Lab Animals]() //-->
+
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
 
 - ## <a name="env"></a>Environment
   - ### <a name="climate"></a>Climate Change
   - ### <a name="land-use"></a>Land Use & Pollution
-  - ### <a name=""></a>Water Use & Pollution
-- ## <a name=""></a>Damage to Communities
+  - ### <a name="water-use"></a>Water Use & Pollution
+- ## <a name="coom"></a>Damage to Communities
 
-- ## <a name=""></a>Human Health
-- ## <a name=""></a>Non-human Animals
-  - ### <a name=""></a>Farmed Animals
-  - ### <a name=""></a>Wildlife
+- ## <a name="health"></a>Human Health
+- ## <a name="non-human"></a>Non-human Animals
+  - ### <a name="farmed"></a>Farmed Animals
+  - ### <a name="wildlife"></a>Wildlife
   <!-- - ### <a name=""></a>Lab Animals //-->
 
 ## Contributing
