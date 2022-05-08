@@ -15,10 +15,6 @@ This document is a curation of the many ways in which animal agriculture is harm
   <!-- - ### [Lab Animals]() //-->
 
  <br />
- <br />
- <br />
- <br />
- <br />
 
 - ## <a name="env"></a>Environment
   - ### <a name="climate"></a>Climate Change
