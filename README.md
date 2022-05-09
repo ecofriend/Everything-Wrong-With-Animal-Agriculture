@@ -44,7 +44,15 @@ The goal of this document is to curate the evidence and arguments that have been
 
       > More than one-third of U.S. land is used for pasture—by far the largest land-use type in the contiguous 48 states.
 
-      _Tags: USA_
+      _Tags: **USA**_
+
+    - #### **[(Global) Land Use](https://ourworldindata.org/land-use)**
+
+      ![](/images/World-Map-by-Land-Use-01.png)
+
+      > While livestock takes up most of the world’s agricultural land it only produces 18% of the world’s calories and 37% of total protein.
+
+      _Tags: **global, protein**_
 
   - ### <a name="water-use"></a>Water Use & Pollution
 
