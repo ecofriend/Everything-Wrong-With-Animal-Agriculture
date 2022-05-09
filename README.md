@@ -30,13 +30,22 @@ The goal of this document is to curate the evidence and arguments that have been
 
   - ### <a name="climate"></a>Climate Change
 
-    - #### [Big Meat and Dairy Companies Have Spent Millions Lobbying Against Climate Action, a New Study Finds](https://insideclimatenews.org/news/02042021/meat-dairy-lobby-climate-action/)<br/>
+    - #### **[Big Meat and Dairy Companies Have Spent Millions Lobbying Against Climate Action, a New Study Finds](https://insideclimatenews.org/news/02042021/meat-dairy-lobby-climate-action/)**<br/>
 
       > “These companies are some of the world’s biggest contributors to climate change,” said Oliver Lazarus, one of the study’s three authors. “They’ve spent a considerable amount of time and money downplaying the link between animal agriculture and climate change.”
 
       _Tags: USA, JBS, Cargill, Hormel, Fonterra, Smithfield_
 
   - ### <a name="land-use"></a>Land Use & Pollution
+
+    - #### **[Here’s How America Uses Its Land](https://www.bloomberg.com/graphics/2018-us-land-use/)**
+
+      ![](/images/bloomberg-land_use.jpg)
+
+      > More than one-third of U.S. land is used for pasture—by far the largest land-use type in the contiguous 48 states.
+
+      _Tags: USA_
+
   - ### <a name="water-use"></a>Water Use & Pollution
 
 - ## <a name="communities"></a>Damage to Communities
