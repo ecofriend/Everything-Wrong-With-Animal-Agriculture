@@ -62,7 +62,7 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
       _Tags: **California, Sonoma, dairy**_
 
-    - ### **[Water Resources: Agricultural and Environmental Issues](https://academic.oup.com/bioscience/article/54/10/909/230205)**
+    - ### [Water Resources: Agricultural and Environmental Issues](https://academic.oup.com/bioscience/article/54/10/909/230205)
 
       > The production of animal protein requires significantly more water than the production of plant protein. Although US livestock directly uses only 2% of the total water used in agriculture, the indirect water inputs for livestock production are substantial because of the water required for forage and grain crops. Each year, a total of 253 million t grain are fed to US livestock, requiring a total of about 66,000,000,000,000 gallons of water.
 
@@ -70,7 +70,7 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
 - ## <a name="communities"></a>Damage to Communities
 
-  - ### **[Animal Agriculture and Environmental Racism](https://foodispower.org/environmental-and-global/environmental-racism/)**
+  - ### [Animal Agriculture and Environmental Racism](https://foodispower.org/environmental-and-global/environmental-racism/)
 
     > In North Carolina, the number of pigs on factory farms nears the total population of people in the state. The contamination from North Carolina pig farms has yielded dangerous concentrations of groundwater nitrates, a leading cause of blue baby syndrome: a condition in which a baby’s skin turns blue due to insufficient oxygen in their blood, which can lead to death. Hydrogen sulfide has also caused noticeable increases in respiratory ailments near these sites. And because of the location of these farms, those affected most are low-income Black, Brown, and Indigenous communities.
 
@@ -78,7 +78,7 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
 - ## <a name="health"></a>Human Health
 
-  - ### **[Plant-based diets and their impact on health, sustainability and the environment](https://apps.who.int/iris/bitstream/handle/10665/349086/WHO-EURO-2021-4007-43766-61591-eng.pdf?sequence=1&isAllowed=y)**
+  - ### [Plant-based diets and their impact on health, sustainability and the environment](https://apps.who.int/iris/bitstream/handle/10665/349086/WHO-EURO-2021-4007-43766-61591-eng.pdf?sequence=1&isAllowed=y)
 
     > The beneficial effects of plant-based diets, including the protection they offer against premature mortality, provide strong evidence for public health guidelines recommending healthful plant-based diets as a means to prevent and control noncommunicable diseases.
 
