@@ -36,6 +36,32 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
       _Tags: **USA, JBS, Cargill, Hormel, Fonterra, Smithfield**_
 
+    - ### [IPCC Climate Change 2022: Mitigation of Climate Change](https://report.ipcc.ch/ar6wg3/pdf/IPCC_AR6_WGIII_FinalDraft_FullReport.pdf)
+
+      > The greatest Shift potential [to mitigating the worst effects of climate change] would come from switching to plant-based diets.
+
+      _Tags: **IPCC, global, mitigation**_
+
+    - ### [EU's farm animals 'produce more emissions than cars and vans combined'](http://www.theguardian.com/environment/2020/sep/22/eu-farm-animals-produce-more-emissions-than-cars-and-vans-combined-greenpeace)
+
+      > The increase in meat and dairy production in Europe over the past decade has made farming a much greater source of emissions, but while governments have targeted renewable energy and transport in their climate policies, initiatives to reduce the impact of food and farming on the climate have lagged behind.
+
+      _Tags: **EU, Europe, Greenpeace**_
+
+    - ### [Global veganism could undo 16 years’ of fossil fuel emissions](https://www.sciencefocus.com/news/global-veganism-could-undo-16-years-of-fossil-fuel-emissions/)
+
+      > "Restoring native forests could buy some much-needed time for countries to transition their energy grids to renewable, fossil-free infrastructure,” said Matthew Hayek, an assistant professor in New York University and the principal author of the new study.
+
+      _Tags: **transition, global, carbon capture, restoration**_
+
+    - ### [Implications of Future US Diet Scenarios on Greenhouse Gas Emissions](https://css.umich.edu/publication/implications-future-us-diet-scenarios-greenhouse-gas-emissions)
+
+      ![](/images/co2-reduction-projects.png)
+
+      > Replacing 50% of all animal-based foods with plant-based alternatives – leads to 224 MMT less emissions per year in 2030, a reduction equivalent to the annual emissions of 47.5 million of today’s average passenger vehicles.
+
+      _Tags: **USA, mitigation**_
+
   - ### <a name="land-use"></a>Land Use & Pollution
 
     - ### [Here’s How America Uses Its Land](https://www.bloomberg.com/graphics/2018-us-land-use/)
