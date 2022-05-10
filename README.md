@@ -137,4 +137,6 @@ The goal of this document is to curate the scientific evidence and arguments tha
     _Tags: **veganic, farming, stock-free**_
     <!-- - ### <a name=""></a>Lab Animals //-->
 
-<!-- ## Contributing //-->
+## Contributing
+
+Please use exist formatting above as examples when adding your own content. (This section will be updated as other contribution criteria become necessary.)
