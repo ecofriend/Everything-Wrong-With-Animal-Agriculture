@@ -30,7 +30,7 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
   - ### <a name="climate"></a>Climate Change
 
-    - #### **[Big Meat and Dairy Companies Have Spent Millions Lobbying Against Climate Action, a New Study Finds](https://insideclimatenews.org/news/02042021/meat-dairy-lobby-climate-action/)**
+    - ### [Big Meat and Dairy Companies Have Spent Millions Lobbying Against Climate Action, a New Study Finds](https://insideclimatenews.org/news/02042021/meat-dairy-lobby-climate-action/)
 
       > “These companies are some of the world’s biggest contributors to climate change,” said Oliver Lazarus, one of the study’s three authors. “They’ve spent a considerable amount of time and money downplaying the link between animal agriculture and climate change.”
 
@@ -38,7 +38,7 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
   - ### <a name="land-use"></a>Land Use & Pollution
 
-    - #### **[Here’s How America Uses Its Land](https://www.bloomberg.com/graphics/2018-us-land-use/)**
+    - ### [Here’s How America Uses Its Land](https://www.bloomberg.com/graphics/2018-us-land-use/)
 
       ![](/images/bloomberg-land_use.jpg)
 
@@ -46,7 +46,7 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
       _Tags: **USA, pasture, animal feed**_
 
-    - #### **[(Global) Land Use](https://ourworldindata.org/land-use)**
+    - ### [(Global) Land Use](https://ourworldindata.org/land-use)
 
       ![](/images/World-Map-by-Land-Use-01.png)
 
@@ -56,7 +56,7 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
   - ### <a name="water-use"></a>Water Use & Pollution
 
-    - #### **[Going Beyond Shorter Showers to Manage California’s Crippling Drought](https://kamalsprasad.medium.com/going-beyond-shorter-showers-to-manage-californias-crippling-drought-5c654bd7d216)**
+    - ### [Going Beyond Shorter Showers to Manage California’s Crippling Drought](https://kamalsprasad.medium.com/going-beyond-shorter-showers-to-manage-californias-crippling-drought-5c654bd7d216)
 
       > Sixty-five million gallons of cows’ milk are produced in Sonoma County every year. It takes about 1,000 gallons of water to make a gallon of cows’ milk meaning 65 billion gallons of water are used to support the dairy industry in Sonoma annually.
 
@@ -88,7 +88,7 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
   - ### <a name="farmed"></a>Farmed Animals
 
-    - #### **[How Many Animals Are Killed for Food Every Day?](https://sentientmedia.org/how-many-animals-are-killed-for-food-every-day/)**
+    - ### [How Many Animals Are Killed for Food Every Day?](https://sentientmedia.org/how-many-animals-are-killed-for-food-every-day/)
 
       > Approximately 23.3 million land animals are killed in the United States every single day according to the U.S. Animal Kill Clock, which also reports that when also including shellfish and other sea life, this number jumps to over 150 million.
 
@@ -96,7 +96,7 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
   - ### <a name="wildlife"></a>Wildlife
 
-    - #### **[Take Extinction Off Your Plate](https://takeextinctionoffyourplate.com/)**
+    - ### [Take Extinction Off Your Plate](https://takeextinctionoffyourplate.com/)
 
       > Native species like wolves, elk and prairie dogs are intentionally killed to protect meat-production profits, while other species like turtles, bees and butterflies are driven to the brink of extinction by our outsized appetite for meat and dairy.
 
