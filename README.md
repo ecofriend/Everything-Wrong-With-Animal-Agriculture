@@ -38,7 +38,7 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
     - ### [IPCC Climate Change 2022: Mitigation of Climate Change](https://report.ipcc.ch/ar6wg3/pdf/IPCC_AR6_WGIII_FinalDraft_FullReport.pdf)
 
-      > The greatest Shift potential [to mitigating the worst effects of climate change] would come from switching to plant-based diets.
+      > The greatest Shift potential [in mitigating the worst effects of climate change] would come from switching to plant-based diets.
 
       _Tags: **IPCC, global, mitigation**_
 
