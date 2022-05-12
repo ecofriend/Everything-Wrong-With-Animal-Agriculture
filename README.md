@@ -34,6 +34,15 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
     _Tags: **food waste, nutrition, sustainability, food security**_
 
+  - ### [Food System Impacts on Biodiversity Loss](https://www.chathamhouse.org/sites/default/files/2021-02/2021-02-03-food-system-biodiversity-loss-benton-et-al_0.pdf)
+        > Global dietary patterns need to converge around diets based more
+    on plants, owing to the disproportionate impact of animal farming on
+    biodiversity, land use and the environment. Such a shift would also benefit
+    the dietary health of populations around the world, and help reduce the risk
+    of pandemics.
+
+  _Tags: **biodiversity, pandemics, health**_
+
   - ### <a name="climate"></a>Climate Change
 
     - ### [Big Meat and Dairy Companies Have Spent Millions Lobbying Against Climate Action, a New Study Finds](https://insideclimatenews.org/news/02042021/meat-dairy-lobby-climate-action/)
@@ -148,13 +157,25 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
       _Tags: **native species, USA**_
 
+  - ### [Using Fish as Livestock Feed Threatens Global Fisheries](https://news.mongabay.com/2009/11/using-fish-as-livestock-feed-threatens-global-fisheries/)
+
+    > “Globally, pigs and chickens alone consume six times the amount of seafood as US consumers and twice that of Japan,” lead author Jennifer Jacquet told UBC. “Ultimately these farm animals have a greater impact on our seafood supplies than the most successful seafood certification program.”
+
+    _Tags: **fisheries, livestock, feed**_
+
 - ## <a name="solutions"></a>Solutions & Alternatives
 
-  - ### ['We’re humus sapiens': the farmers who shun animal manure](https://www.theguardian.com/lifeandstyle/2019/jan/12/were-humus-sapiens-the-farmers-who-shun-animal-manure)
+  - ### ['We’re Humus Sapiens': the Farmers Who Shun Animal Manure](https://www.theguardian.com/lifeandstyle/2019/jan/12/were-humus-sapiens-the-farmers-who-shun-animal-manure)
 
     > What’s really remarkable about this “vegan” farm is the size of its vegetables. Organic yields are typically 20-30% lower than farms that use synthetic fertilisers and chemical pesticides. But Oiko Bio has had a spectacular harvest this year. One hokkaido plant has produced nine squashes; plants often produce only two. This 0.2-hectare (0.5-acre) field produced 1,500kg of courgette: 7.5 tonnes per hectare. The previous year, on the same field, with similar weather, it was five tonnes.
 
     _Tags: **veganic, farming, stock-free**_
+
+  ### [Vegan Meals ‘Cheaper and Quicker’ Than Meat or Fish](https://www.foodnavigator.com/Article/2020/12/18/Vegan-meals-cheaper-and-quicker-than-meat-or-fish)
+
+  > Data from Kantar’s usage panel, which records online weekly meal diaries from around 11,000 people in Britain, showed that for the 52 weeks ending August 2020 a mail meal containing meat or fish cost an average of £1.77 per person. A plant-based meal cost an average of £1.06 per person. The savings where ‘fairly equal’ across lunch and dinner.
+
+  \_Tags: **cost, price, Britian, affordability**
     <!-- - ### <a name=""></a>Lab Animals //-->
 
 ## Contributing
