@@ -28,6 +28,12 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
 - ## <a name="env"></a>Environment
 
+  - ### [The Opportunity Cost of Animal Based Diets Exceeds All Food Losses](https://www.pnas.org/doi/10.1073/pnas.1713820115)
+
+    > Plant-based replacements for each of the major animal categories in the United States (beef, pork, dairy, poultry, and eggs) can produce twofold to 20-fold more nutritionally similar food per unit cropland. Replacing all animal-based items with plant-based replacement diets can add enough food to feed 350 million additional people, more than the expected benefits of eliminating all supply chain food loss.
+
+    _Tags: **food waste, nutrition, sustainability, food security**_
+
   - ### <a name="climate"></a>Climate Change
 
     - ### [Big Meat and Dairy Companies Have Spent Millions Lobbying Against Climate Action, a New Study Finds](https://insideclimatenews.org/news/02042021/meat-dairy-lobby-climate-action/)
@@ -42,13 +48,13 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
       _Tags: **IPCC, global, mitigation**_
 
-    - ### [EU's farm animals 'produce more emissions than cars and vans combined'](http://www.theguardian.com/environment/2020/sep/22/eu-farm-animals-produce-more-emissions-than-cars-and-vans-combined-greenpeace)
+    - ### [EU's Farm Animals 'Produce More Emissions Than Cars and Vans Combined'](http://www.theguardian.com/environment/2020/sep/22/eu-farm-animals-produce-more-emissions-than-cars-and-vans-combined-greenpeace)
 
       > The increase in meat and dairy production in Europe over the past decade has made farming a much greater source of emissions, but while governments have targeted renewable energy and transport in their climate policies, initiatives to reduce the impact of food and farming on the climate have lagged behind.
 
       _Tags: **EU, Europe, Greenpeace**_
 
-    - ### [Global veganism could undo 16 years’ of fossil fuel emissions](https://www.sciencefocus.com/news/global-veganism-could-undo-16-years-of-fossil-fuel-emissions/)
+    - ### [Global Veganism Could Undo 16 Years’ of Fossil Fuel Emissions](https://www.sciencefocus.com/news/global-veganism-could-undo-16-years-of-fossil-fuel-emissions/)
 
       > "Restoring native forests could buy some much-needed time for countries to transition their energy grids to renewable, fossil-free infrastructure,” said Matthew Hayek, an assistant professor in New York University and the principal author of the new study.
 
@@ -56,17 +62,25 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
     - ### [Implications of Future US Diet Scenarios on Greenhouse Gas Emissions](https://css.umich.edu/publication/implications-future-us-diet-scenarios-greenhouse-gas-emissions)
 
-      ![](/images/co2-reduction-projects.png)
+      ![Replacing 50% of all animal-based foods with plant-based alternatives – leads to 224 MMT less emissions per year in 2030, a reduction equivalent to the annual emissions of 47.5 million of today’s average passenger vehicles.](/images/co2-reduction-projects.png)
 
       > Replacing 50% of all animal-based foods with plant-based alternatives – leads to 224 MMT less emissions per year in 2030, a reduction equivalent to the annual emissions of 47.5 million of today’s average passenger vehicles.
 
       _Tags: **USA, mitigation**_
 
+    - ### [Organic Meat Production Just as Bad for Climate, Study Finds](https://www.theguardian.com/environment/2020/dec/23/organic-meat-production-just-as-bad-for-climate-study-finds)
+
+      ![Organic meat production just as bad for the climate](/images/organic_meat.png)
+
+      > Organic livestock are not fed imported fodder and are often grass-fed, but this means they produce less meat and grow more slowly, therefore spending longer emitting greenhouse gases before slaughter, the researchers said. Plants grown organically have half the climate costs of conventional produce as they do not rely on chemical fertilisers, but all plants have far lower emissions than animal products.
+
+      _Tags: **organic, free-range, regenerative, holistic**_
+
   - ### <a name="land-use"></a>Land Use & Pollution
 
     - ### [Here’s How America Uses Its Land](https://www.bloomberg.com/graphics/2018-us-land-use/)
 
-      ![](/images/bloomberg-land_use.jpg)
+      ![More than one-third of U.S. land is used for pasture—by far the largest land-use type in the contiguous 48 states.](/images/bloomberg-land_use.jpg)
 
       > More than one-third of U.S. land is used for pasture—by far the largest land-use type in the contiguous 48 states.
 
@@ -74,7 +88,7 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
     - ### [(Global) Land Use](https://ourworldindata.org/land-use)
 
-      ![](/images/World-Map-by-Land-Use-01.png)
+      ![While livestock takes up most of the world’s agricultural land it only produces 18% of the world’s calories and 37% of total protein.](/images/World-Map-by-Land-Use-01.png)
 
       > While livestock takes up most of the world’s agricultural land it only produces 18% of the world’s calories and 37% of total protein.
 
@@ -93,6 +107,12 @@ The goal of this document is to curate the scientific evidence and arguments tha
       > The production of animal protein requires significantly more water than the production of plant protein. Although US livestock directly uses only 2% of the total water used in agriculture, the indirect water inputs for livestock production are substantial because of the water required for forage and grain crops. Each year, a total of 253 million t grain are fed to US livestock, requiring a total of about 66,000,000,000,000 gallons of water.
 
       _Tags: **USA, grain, animal feed**_
+
+    - ### [Poop From Meat Eaters Is Killing Coral Reefs](https://www.thedailybeast.com/nitrogen-from-meat-eaters-poop-is-killing-coral-reefs-and-seagrass-new-study-finds)
+
+      > “As people switch to eating animal-based protein diets, we eat more and more nitrogen, and then we excrete almost all of it out,” lead author Cascade Tuholske, a geographer and postdoctoral research scientist at Columbia University’s Earth Institute, told The Daily Beast. In a nutshell, he said the findings show, “Hey, you're eating a ton of burgers. And some of those ecological impacts are methane emissions, land-use change, [agriculture] runoff, but it's also having a huge impact just from our wastewater.”
+
+      _Tags: **runoff, wastewater, nitrogen, sealife**_
 
 - ## <a name="communities"></a>Damage to Communities
 
