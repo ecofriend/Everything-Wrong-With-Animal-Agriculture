@@ -171,7 +171,7 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
     _Tags: **veganic, farming, stock-free**_
 
-  ### [Vegan Meals ‘Cheaper and Quicker’ Than Meat or Fish](https://www.foodnavigator.com/Article/2020/12/18/Vegan-meals-cheaper-and-quicker-than-meat-or-fish)
+  - ### [Vegan Meals ‘Cheaper and Quicker’ Than Meat or Fish](https://www.foodnavigator.com/Article/2020/12/18/Vegan-meals-cheaper-and-quicker-than-meat-or-fish)
 
   > Data from Kantar’s usage panel, which records online weekly meal diaries from around 11,000 people in Britain, showed that for the 52 weeks ending August 2020 a mail meal containing meat or fish cost an average of £1.77 per person. A plant-based meal cost an average of £1.06 per person. The savings where ‘fairly equal’ across lunch and dinner.
 
