@@ -34,15 +34,6 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
     _Tags: **food waste, nutrition, sustainability, food security**_
 
-  - ### [Food System Impacts on Biodiversity Loss](https://www.chathamhouse.org/sites/default/files/2021-02/2021-02-03-food-system-biodiversity-loss-benton-et-al_0.pdf)
-        > Global dietary patterns need to converge around diets based more
-    on plants, owing to the disproportionate impact of animal farming on
-    biodiversity, land use and the environment. Such a shift would also benefit
-    the dietary health of populations around the world, and help reduce the risk
-    of pandemics.
-
-  _Tags: **biodiversity, pandemics, health**_
-
   - ### <a name="climate"></a>Climate Change
 
     - ### [Big Meat and Dairy Companies Have Spent Millions Lobbying Against Climate Action, a New Study Finds](https://insideclimatenews.org/news/02042021/meat-dairy-lobby-climate-action/)
@@ -96,6 +87,12 @@ The goal of this document is to curate the scientific evidence and arguments tha
       > Curbing the world’s huge and increasing appetite for meat is essential to avoid devastating climate change, according to a new report. But governments and green campaigners are doing nothing to tackle the issue due to fears of a consumer backlash, warns the analysis from the thinktank Chatham House.
 
       _Tags: **UK, carbon budget**_
+
+    - ### [Global food system emissions could preclude achieving the 1.5° and 2°C climate change targets](https://www.science.org/doi/10.1126/science.aba7357)
+
+      > To have any hope of meeting the central goal of the Paris Agreement, which is to limit global warming to 2°C or less, our carbon emissions must be reduced considerably, including those coming from agriculture. Clark et al. show that even if fossil fuel emissions were eliminated immediately, emissions from the global food system alone would make it impossible to limit warming to 1.5°C and difficult even to realize the 2°C target. Thus, major changes in how food is produced are needed if we want to meet the goals of the Paris Agreement.
+
+      _Tags: **Paris Agreement, global temperature limit**_
 
   - ### <a name="land-use"></a>Land Use & Pollution
 
@@ -173,7 +170,7 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
       > global dietary patterns need to converge around diets based more on plants, owing to the disproportionate impact of animal farming on biodiversity, land use and the environment. Such a shift would also benefit the dietary health of populations around the world, and help reduce the risk of pandemics.
 
-      _Tags: **biodiversity, deforestation, habitat loss**_
+      _Tags: **biodiversity, deforestation, habitat loss, pandamics**_
 
   - ### [Using Fish as Livestock Feed Threatens Global Fisheries](https://news.mongabay.com/2009/11/using-fish-as-livestock-feed-threatens-global-fisheries/)
 
