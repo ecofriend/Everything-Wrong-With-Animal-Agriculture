@@ -85,6 +85,18 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
       _Tags: **organic, free-range, regenerative, holistic**_
 
+    - ### [Children are unsuspecting meat eaters: An opportunity to address climate change](https://www.sciencedirect.com/science/article/pii/S0272494421001584)
+
+      > At the family level, youth climate activism may begin at the dinner table. By refraining from eating foods that violate their beliefs about the well-being of animals, children would also be acting in a manner consistent with their moral views of the environment. In addition to reducing their own carbon footprints, children's principled eating behaviors may also influence those of their parents.
+
+      _Tags: **children, meat paradox**_
+
+    - ### [Eating Less Meat Essential to Curb Climate Change, Says Report](https://ourworld.unu.edu/en/eating-less-meat-essential-to-curb-climate-change-says-report)
+
+      > Curbing the world’s huge and increasing appetite for meat is essential to avoid devastating climate change, according to a new report. But governments and green campaigners are doing nothing to tackle the issue due to fears of a consumer backlash, warns the analysis from the thinktank Chatham House.
+
+      _Tags: **UK, carbon budget**_
+
   - ### <a name="land-use"></a>Land Use & Pollution
 
     - ### [Here’s How America Uses Its Land](https://www.bloomberg.com/graphics/2018-us-land-use/)
@@ -157,6 +169,12 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
       _Tags: **native species, USA**_
 
+    - ### [Food system impacts on biodiversity loss](https://www.chathamhouse.org/sites/default/files/2021-02/2021-02-03-food-system-biodiversity-loss-benton-et-al_0.pdf)
+
+      > global dietary patterns need to converge around diets based more on plants, owing to the disproportionate impact of animal farming on biodiversity, land use and the environment. Such a shift would also benefit the dietary health of populations around the world, and help reduce the risk of pandemics.
+
+      _Tags: **biodiversity, deforestation, habitat loss**_
+
   - ### [Using Fish as Livestock Feed Threatens Global Fisheries](https://news.mongabay.com/2009/11/using-fish-as-livestock-feed-threatens-global-fisheries/)
 
     > “Globally, pigs and chickens alone consume six times the amount of seafood as US consumers and twice that of Japan,” lead author Jennifer Jacquet told UBC. “Ultimately these farm animals have a greater impact on our seafood supplies than the most successful seafood certification program.”
@@ -176,6 +194,7 @@ The goal of this document is to curate the scientific evidence and arguments tha
     > Data from Kantar’s usage panel, which records online weekly meal diaries from around 11,000 people in Britain, showed that for the 52 weeks ending August 2020 a mail meal containing meat or fish cost an average of £1.77 per person. A plant-based meal cost an average of £1.06 per person. The savings where ‘fairly equal’ across lunch and dinner.
 
     _Tags: **cost, price, Britian, affordability**_
+
     <!-- - ### <a name=""></a>Lab Animals //-->
 
 ## Contributing
