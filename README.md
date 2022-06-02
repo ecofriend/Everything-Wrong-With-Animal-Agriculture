@@ -15,7 +15,7 @@ The goal of this document is to curate the scientific evidence and arguments tha
   - ### [Land Use & Pollution](#land-use)
   - ### [Water Use & Pollution](#water-use)
 - ## [Damage to Communities](#communities)
-- ## [Human Health](#health)
+- ## [Human Rights & Health](#health)
 - ## [Non-human Animals](#non-human)
 
   - ### [Farmed Animals](#farmed)
@@ -23,8 +23,9 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
 - ## [Solutions & Alternatives](#solutions)
   <!-- - ### [Lab Animals]() //-->
+- ## [Frequently Asked Questions](#faqs)
 
- <br />
+<br />
 
 - ## <a name="env"></a>Environment
 
@@ -112,6 +113,18 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
       _Tags: **global, protein**_
 
+    - ### [Devouring the Rainforest](https://www.washingtonpost.com/world/interactive/2022/amazon-beef-deforestation-brazil/)
+
+      > the ongoing failure to protect the world’s largest rainforest from rapacious cattle ranching is no longer Brazil’s alone, a Washington Post investigation shows. It is now shared by the United States — and the American consumer.
+
+      _Tags: **Brazil, rainforest, deforestion, ranching, USA**_
+
+    - ### [If You're in Wyoming, Don't Take Pictures of Cattle Ranches](https://www.vice.com/en/article/ev944j/if-youre-in-wyoming-dont-take-pictures-of-cattle-ranches)
+
+      > the bill could quash scientific research done by laypeople, often called citizen science, and serves to hide environmentally harmful practices, much like "ag-gag" laws in many states prevent whistleblowers from exposing hazardous work conditions, animal abuse, or possible food contamination within factory farms and slaughterhouses.
+
+      _Tags: **Wyoming, ag-gag**_
+
   - ### <a name="water-use"></a>Water Use & Pollution
 
     - ### [Going Beyond Shorter Showers to Manage California’s Crippling Drought](https://kamalsprasad.medium.com/going-beyond-shorter-showers-to-manage-californias-crippling-drought-5c654bd7d216)
@@ -140,13 +153,49 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
     _Tags: **California, North Carolina, San Joaquin Valley, Tulare County, pig farms, dairy**_
 
-- ## <a name="health"></a>Human Health
+- ## <a name="health"></a>Human Rights and Health
 
   - ### [Plant-based diets and their impact on health, sustainability and the environment](https://apps.who.int/iris/bitstream/handle/10665/349086/WHO-EURO-2021-4007-43766-61591-eng.pdf?sequence=1&isAllowed=y)
 
     > The beneficial effects of plant-based diets, including the protection they offer against premature mortality, provide strong evidence for public health guidelines recommending healthful plant-based diets as a means to prevent and control noncommunicable diseases.
 
     _Tags: **WHO, world health organization, Europe, healthcare costs, environment**_
+
+  - ### [North Carolina's Ag-Gag Law Might Be the Worst in the Nation](https://www.vice.com/en/article/7xap54/north-carolinas-ag-gag-law-might-be-the-worst-in-the-nation)
+
+    > "It's a very broad and dangerous ag-gag bill because it doesn't just affect agriculture. It affects nursing homes, daycares, veteran facilities, anywhere where you have people that are vulnerable."
+
+    _Tags: **North Carolina, ag-gag**_
+
+  - ### [Oklahoma AG and EPA Pick Pruitt Stalled Pollution Lawsuit After Contributions From Poultry Industry](https://stateimpact.npr.org/oklahoma/2017/01/16/oklahoma-ag-and-epa-pick-pruitt-stalled-pollution-lawsuit-after-contributions-from-poultry-industry/)
+
+    > A report by the nonprofit Environmental Working Group verified by StateImpact shows at least $40,000 for Pruitt’s 2010 campaign was contributed by executives of poultry companies and lawyers of firms representing the companies named in a high-profile pollution lawsuit filed by his predecessor Drew Edmondson.
+
+    _Tags: **Oklahoma, Arkansas, Tyson, chicken**_
+
+  - ### [Life for Residents Near Hog Farms Just Got Much, Much Worse](https://www.motherjones.com/food/2018/03/life-for-residents-near-hog-farms-just-got-much-much-worse/)
+
+    > A bill called the “Fair Agricultural Reporting Method Act” proposed to free most livestock operations from having to report the air-borne toxins emitted from the manure they accumulate. These gases, which include ammonia and hydrogen sulfide, can trigger ill health effects in neighboring communities, including eye irritation, chronic lung disease, and olfactory neuron loss. The pork, beef, and chicken trade groups all hotly supported the measure, which is now the law of the land.
+
+    _Tags: **Tyson, Kansas, North Carolina**_
+
+  - ### [Bolsonaro’s Election is Catastrophic News for Brazil’s Indigenous Tribes](https://www.theguardian.com/commentisfree/2018/oct/31/jair-bolsonaro-brazil-indigenous-tribes-mining-logging)
+
+    > Bolsonaro told the tribes of Roraima state what he planned to do in Raposa Serra do Sol, a large indigenous territory recognised in 2005 after years of bitter conflict with cattle ranchers: “We are going to rip up Raposa Serra do Sol and give guns to all the ranchers…”
+
+    _Tags: **Brazil, indigenous people, ranching**_
+
+  - ### [Factory Farms Are Poisoning Rural Communities](https://truthout.org/articles/factory-farms-are-poisoning-rural-communities-will-biden-take-on-this-crisis/)
+
+    > Students in census tracts where poultry CAFOs (aka chicken factory farms) are based and where nitrate levels in the water exceed 5mg/L have tended to score lower on math and English proficiency tests.
+
+    _Tags: **Delaware, Mississippi, Maryland**_
+
+  - ### [Fired Tyson Boss Says COVID Office Pool was a ‘Morale Boost’](https://www.bostonherald.com/2020/12/28/fired-tyson-boss-says-covid-office-pool-was-a-morale-boost/)
+
+    > One of the Tyson Foods managers fired for betting on how many workers would contract COVID-19 at an Iowa pork plant said the office pool was spontaneous fun and intended to boost morale.
+
+    _Tags: **Tyson, Iowa, slaughterhouse workers**_
 
 - ## <a name="non-human"></a>Non-human Animals
 
@@ -197,3 +246,11 @@ The goal of this document is to curate the scientific evidence and arguments tha
 ## Contributing
 
 Please use exist formatting above as examples when adding your own content. (This section will be updated as other contribution criteria become necessary.)
+
+## <a name="faqs">Frequently Asked Questions</a>
+
+- **Why is old information not removed?**<br/>
+  Using older news articles shows a pattern of neglect of people's health, environmental degradation, and animal abuse that has largely gotten worse with the progression of time. <br/>
+  In additiona, many issues reported in the older articles are still relevant today, e.g. ag-gag laws enacted several years ago are still in effect in many U.S. states.
+- **Why don't resources link directly to research instead of news articles?**<br/>
+  This collection is designed for general public who may have a difficult time parsing research papers. News articles often link to the original should one want to read the original research on which the article is based.
