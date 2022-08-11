@@ -95,6 +95,12 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
       _Tags: **Paris Agreement, global temperature limit**_
 
+    - ### [The Untapped Climate Opportunity in Alternative Proteins](https://www.bcg.com/publications/2022/combating-climate-crisis-with-alternative-protein)
+
+      > Our latest research shows that consumers are embracing alternative[/plant-based] proteins and that protein transformation is one of the best tools available to combat the climate crisis... It all points to an untapped opportunity that everyone can embrace.
+
+      _Tags: **plant-based meats, alternate protein**_
+
   - ### <a name="land-use"></a>Land Use & Pollution
 
     - ### [Here’s How America Uses Its Land](https://www.bloomberg.com/graphics/2018-us-land-use/)
@@ -196,6 +202,12 @@ The goal of this document is to curate the scientific evidence and arguments tha
     > One of the Tyson Foods managers fired for betting on how many workers would contract COVID-19 at an Iowa pork plant said the office pool was spontaneous fun and intended to boost morale.
 
     _Tags: **Tyson, Iowa, slaughterhouse workers**_
+
+  - ### [Strain of MRSA 'superbug' in pigs can jump to humans](https://www.msn.com/en-us/health/medical/strain-of-mrsa-superbug-in-pigs-can-jump-to-humans/ar-AAZ02AB)
+
+    > A strain of the superbug MRSA has emerged in pigs that is highly resistant to antibiotics and a growing cause of human infections. University of Cambridge researchers said this particular strain of MRSA has shown up in livestock over the past 50 years, probably due to widespread antibiotic use in farming. They said it is a potential threat to public health.
+
+    _Tags: **Antibiotic resistance, pigs**_
 
 - ## <a name="non-human"></a>Non-human Animals
 
