@@ -253,6 +253,11 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
     _Tags: **cost, price, Britian, affordability**_
 
+  - ### [Dutch city becomes world’s first to ban meat adverts in public](https://www.theguardian.com/world/2022/sep/06/haarlem-netherlands-bans-meat-adverts-public-spaces-climate-crisis)
+    > A Dutch city will become the first in the world to ban meat adverts from public spaces in an effort to reduce consumption and greenhouse gas emissions.
+
+    _Tags: **advertisement, reduction, Europe**_
+
     <!-- - ### <a name=""></a>Lab Animals //-->
 
 ## Contributing
